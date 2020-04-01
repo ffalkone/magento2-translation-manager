@@ -1,5 +1,5 @@
 {
-    "name": "eurotext/magento2-translation-manager",
+    "name": "falkone/magento2-translation-manager",
     "description": "EUROTEXT Translation Manager for Magento2",
     "type": "magento2-module",
     "license": "proprietary",
